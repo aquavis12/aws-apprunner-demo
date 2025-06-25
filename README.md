@@ -29,9 +29,10 @@ Serves a simple HTML page confirming successful AWS App Runner deployment.
 ## Demo Videos
 
 ### Pre-Deployment
-![Demo Video - Setup and Configuration](/demo_videos/app-runner-demo.mp4.mp4)
+![Demo Video - Setup and Configuration](https://apprunner-demo-videos-2025.s3.us-east-1.amazonaws.com/app-runner-demo.mp4)
 
 ### Post-Deployment
-![Demo Video - Running Application](/demo_videos/app-runner-demo-1.mp4.mp4)
+![Demo Video - Running Application](https://apprunner-demo-videos-2025.s3.us-east-1.amazonaws.com/app-runner-demo-1.mp4)
+![Final Output](/demo_images/app-runner-demo-ss.png)
 
  [Blog](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
