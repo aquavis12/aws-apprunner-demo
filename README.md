@@ -25,3 +25,13 @@ This app is configured for AWS App Runner with `apprunner.yaml`. It will automat
 ## What it does
 
 Serves a simple HTML page confirming successful AWS App Runner deployment.
+
+## Demo Videos
+
+### Pre-Deployment
+![Demo Video - Setup and Configuration](/demo_videos/app-runner-demo.mp4.mp4)
+
+### Post-Deployment
+![Demo Video - Running Application](/demo_videos/app-runner-demo-1.mp4.mp4)
+
+ [Blog](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
