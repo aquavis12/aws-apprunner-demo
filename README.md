@@ -36,4 +36,4 @@ Serves a simple HTML page confirming successful AWS App Runner deployment.
 ![Final Output](/demo_images/app-runner-demo-ss.png)
 
 ### Blog Post
- ![](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
+ ![Dev.to](https://dev.to/aws-builders/aws-app-runner-the-easiest-way-to-deploy-containers-to-the-cloud-5fbf)
